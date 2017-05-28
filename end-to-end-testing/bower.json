@@ -1,0 +1,33 @@
+{
+    "name": "end-to-end-testing",
+    "homepage": "https://github.com/SurendraVidiyala/protractor-jasmine-testing",
+    "authors": [
+        "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
+    ],
+    "description": "end to end testing for angular",
+    "main": "index.html",
+    "keywords": [
+        "angular",
+        "angular-resourse",
+        "angular-ui-router",
+        "bootstrap",
+        "font-awesome"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular-mocks": "^1.6.4",
+        "angular": "^1.6.4",
+        "angular-resource": "^1.6.4",
+        "angular-ui-router": "^1.0.3",
+        "bootstrap": "^3.3.7",
+        "font-awesome": "^4.7.0"
+    }
+}
