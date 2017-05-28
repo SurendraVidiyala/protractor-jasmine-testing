@@ -1,6 +1,6 @@
 'use strict';
 
-describe('conFusion App E2E Testing', function() {
+describe('anupama App E2E Testing', function() {
 
     it('should automatically redirect to / when location hash/fragment is empty', function() {
 
@@ -15,7 +15,7 @@ describe('conFusion App E2E Testing', function() {
 
         it('should have a title', function() {
             expect(browser.getTitle()).
-            toEqual('Ristorante Con Fusion');
+            toEqual('Anupama Restaurant');
         });
     });
     describe('menu 0 item', function() {
